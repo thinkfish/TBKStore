@@ -8,4 +8,4 @@ import { AppRegistry } from 'react-native';
 
 import Root from './src/root';
 
-AppRegistry.registerComponent('YReader', () => Root);
+AppRegistry.registerComponent('TBKStore', () => Root);
